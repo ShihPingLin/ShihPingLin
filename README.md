@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShihPingLin
+- 👋 Hi, I’m Shih Ping Lin
 - 👀 I’m interested in Machine Learning, Data Science, Signal Processing, and Web Programming
 - 🌱 I’m currently learning Deep Learning
 - 📫 My email is tommy787576@gmail.com
